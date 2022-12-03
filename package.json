@@ -4,7 +4,6 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"day": "vite-node src/runDay.ts --",
 		"dev": "vite",
 		"build": "tsc && vite build",
 		"init-day": "vite-node src/scripts/newDay.ts --",
